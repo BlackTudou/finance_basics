@@ -9,8 +9,4 @@
    day2/index.rst
    day3/index.rst
    day4/index.rst
-
-   保险
-   股票
-   基金
-   国债逆回购
+   day5/index.rst
