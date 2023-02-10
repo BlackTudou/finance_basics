@@ -8,6 +8,6 @@ Welcome to finance_basics's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    tmp <tmp/index>
+   rookie_training_camp/index.rst
