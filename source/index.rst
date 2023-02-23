@@ -11,3 +11,4 @@ Welcome to finance_basics's documentation!
 
    tmp <tmp/index>
    rookie_training_camp/index.rst
+   stock_trading_bootcamp/index.rst
